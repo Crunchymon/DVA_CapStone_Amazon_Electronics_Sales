@@ -9,7 +9,7 @@
 ## Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" width="1000">
+  <img src="images/dashboard.jpeg" width="1000">
 </p>
 
 ---
